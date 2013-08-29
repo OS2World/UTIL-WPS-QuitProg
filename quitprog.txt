@@ -1,0 +1,16 @@
+                           Upload Information for Hobbes.nmsu.edu
+                           ======================================
+
+            Archive Name:  quitprog.zip 
+     Archive Description:  Make a PM program save data and exit from cmd.line (w. C source)
+Operating System/Version:  OS/2 
+          Program Source:  yes 
+                Replaces:  none 
+
+               Your name:  J›rgen Thomsen 
+      Your email address:  j.thomsen@usa.net
+
+      Proposed directory
+           for placement: /pub/os2/util/system/ 
+
+

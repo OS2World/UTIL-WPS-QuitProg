@@ -1,0 +1,28 @@
+# IBM Developer's Workframe/2 Make File Creation run at 21:27:49 on 09/06/97
+
+# Make File Creation run in directory:
+#   F:\PROJS\QUITPROG;
+
+# Assumed INCLUDE environment variable path:
+#   E:\TOOLKT21\CPLUS\OS2H;
+#   E:\TOOLKT21\C\OS2H;
+#   E:\TOOLKT21\C\OS2H\VDD;
+#   E:\TOOLKT21\ASM\OS2INC;
+#   E:\IBMCPP\INCLUDE;
+#   E:\IBMCPP\IBMCLASS;
+#   F:\Projs\LZO-0.26\Src;
+#   F:\Projs\LZO-0.26\Include;
+#   F:\Projs\LZO-0.26\Src\LZO1b;
+#   F:\Projs\LZO-0.26\Src\LZO1c;
+#   F:\JAVAOS2\INCLUDE;
+#   F:\JAVAOS2\INCLUDE\OS2;
+
+
+INCLUDE000=$(INCLUDE)
+
+
+QuitProg.OBJ:  QuitProg.C  \
+#  {$(INCLUDE000)}os2.h  \
+#  {$(INCLUDE000)}string.h  \
+#  {$(INCLUDE000)}stdio.h  \
+   QUITPROG.MAK
